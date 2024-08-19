@@ -1,0 +1,1 @@
+([('index', '/usr/local/var/www/extractor/dist/index', 'EXECUTABLE')],)
